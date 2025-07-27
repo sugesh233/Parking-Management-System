@@ -1,4 +1,4 @@
-# 🚗 Parking Management System
+#  Parking Management System 🚗
 
 A full-stack web application designed to streamline the management of parking operations. Built with **Flask (Python)** and **MongoDB**, this system enables secure admin login, vehicle tracking, and dynamic pricing based on vehicle type — ideal for institutions, malls, gated communities, or smart cities.
 
