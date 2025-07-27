@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables (if using dotenv)
+.env
+
+# OS/System files
+.DS_Store
+Thumbs.db
